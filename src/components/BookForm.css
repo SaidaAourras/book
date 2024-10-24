@@ -1,0 +1,33 @@
+/* BookForm.css */
+
+.form-label {
+    font-weight: bold;
+    color: #343a40; /* Dark color for labels */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Bootstrap primary color */
+    border-color: #007bff; /* Match border with background */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    border-color: #0056b3; /* Match border with background on hover */
+  }
+  
+  .shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  .rounded {
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important; /* Light background for the form */
+  }
+  
+  .placeholder {
+    color: #6c757d; /* Grey color for placeholder text */
+  }
+  

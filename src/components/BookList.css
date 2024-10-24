@@ -1,0 +1,31 @@
+/* BookList.css */
+
+.card {
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+  }
+  
+  .btn-outline-success,
+  .btn-outline-danger,
+  .btn-outline-info {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745; /* Green background on hover */
+    color: white;
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #dc3545; /* Red background on hover */
+    color: white;
+  }
+  
+  .btn-outline-info:hover {
+    background-color: #17a2b8; /* Blue background on hover */
+    color: white;
+  }
+  

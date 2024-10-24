@@ -1,0 +1,32 @@
+{
+    "books":[
+    {
+      "isbn": "978-3-16-148410-0",
+      "title": "The Great Gatsby",
+      "description": "A novel set in the Jazz Age on Long Island, near New York City, that focuses on the young and mysterious millionaire Jay Gatsby and his quixotic passion for the beautiful Daisy Buchanan.",
+      "author": "F. Scott Fitzgerald",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Great_Gatsby_Cover_1925_Retouched.jpg/800px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    },
+    {
+      "isbn": "978-0-14-028333-4",
+      "title": "1984",
+      "description": "A dystopian social science fiction novel and cautionary tale, warning of the dangers of totalitarianism, surveillance, and repressive regimentation of persons and behaviours within society.",
+      "author": "George Orwell",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg"
+    },
+    {
+      "isbn": "978-0-7432-7356-5",
+      "title": "The Da Vinci Code",
+      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in Paris’s Louvre Museum and uncover a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ having been married to Mary Magdalene.",
+      "author": "Dan Brown",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+    },
+    {
+      "isbn": "978-1-5011-7189-2",
+      "title": "Where the Crawdads Sing",
+      "description": "A mystery and coming-of-age novel set in the 1950s and 1960s, focusing on the story of Kya, a young girl who grows up isolated in the marshlands of North Carolina and later becomes the main suspect in a murder investigation.",
+      "author": "Delia Owens",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Where_The_Crawdads_Sing_Book_Cover.jpg/800px-Where_The_Crawdads_Sing_Book_Cover.jpg"
+    }
+  ]
+}
